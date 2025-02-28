@@ -60,8 +60,6 @@ chapters:
     title: URSSI
   - file: organizations/usrse.md
     title: US-RSE
-  - file: organizations/ossci.md
-    title: OSSci
 - file: service-providers/index.md
   sections:
   - file: service-providers/tidelift.md
